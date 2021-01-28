@@ -1,7 +1,7 @@
 # JitPackTest
 
-I have a library that is published through JitPack.
-[LogCatCollector](https://github.com/applearrow/LogCatCollector)
+I have a library that is published through JitPack:
+[LogCatCollector](https://github.com/applearrow/LogCatCollector).
 In this project I'm just using that library.
 
 In the project build.gradle file, add jitpack.io as a maven repo:
