@@ -21,6 +21,7 @@ Then in the android module build.gradle file, add an implementation dependency a
 dependencies {
     implementation 'com.github.applearrow:LogCatCollector:0.1'
     implementation 'com.jakewharton.timber:timber:4.7.1'
-}```
+}
+```
 
 [<img src="app/doc/images/screenshot1.png" width="400"/>](app/doc/images/screenshot1.png)
