@@ -1,6 +1,7 @@
 # JitPackTest
 
 I have a library that is published through JitPack.
+[LogCatCollector](https://github.com/applearrow/LogCatCollector)
 In this project I'm just using that library.
 
 In the project build.gradle file, add jitpack.io as a maven repo:
@@ -24,4 +25,4 @@ dependencies {
 }
 ```
 
-[<img src="app/doc/images/screenshot1.png" width="400"/>](app/doc/images/screenshot1.png)
+[<img src="app/doc/images/screenshot1.png" width="200"/>](app/doc/images/screenshot1.png)
